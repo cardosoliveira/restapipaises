@@ -1,0 +1,244 @@
+{
+  "paises": [
+    {
+      "id": 1,
+      "nome": "País: Argentina",
+      "capial": "Capital: Buenos Aires",
+      "pupulacao": "População: 45.038.000",
+      "continente": "Continente: América",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png",
+      "latitude": "Latitude: 2°11′45″ N",
+      "longitute": "Longitude: 75°58′48″ O"
+    },
+    {
+      "id": 2,
+      "nome": "País: Brasil",
+      "capial": "Capital: Brasília",
+      "pupulacao": "População: 212.600.000",
+      "continente": "Continente: América",
+      "bandeira": "https://http2.mlstatic.com/D_NQ_NP_785918-MLB49897208278_052022-W.jpg",
+      "latitude": "Latitude: 21°56′04″ S",
+      "longitute": "Longitude: 50°30′48″ O"
+    },
+    {
+      "id": 3,
+      "nome": "País: Canadá",
+      "capial": "Capital: Ottawa",
+      "pupulacao": "População: 38.010.000",
+      "continente": "Continente: América",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
+      "latitude": "Latitude:  38°40′26″ N",
+      "longitute": "Longitude: 0°48′47″ O"
+    },
+    {
+      "id": 4,
+      "nome": "País: Dinamarca",
+      "capial": "Capital: Copenhage",
+      "pupulacao": "População: 5.831.000",
+      "continente": "Continente: Europa",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png",
+      "latitude": "Latitude:  55°40′33″ N",
+      "longitute": "Longitude: 2°33′55″ E"
+    },
+    {
+      "id": 5,
+      "nome": "País: Estados Unidos",
+      "capial": "Capital: Washington, D.C.",
+      "pupulacao": "População: 329.500.000",
+      "continente": "Continente: América",
+      "bandeira": "https://img.freepik.com/vetores-gratis/ilustracao-de-bandeira-eua_53876-18165.jpg",
+      "latitude": "Latitude:  38°53′42″ N",
+      "longitute": "Longitude: 77°02′10″ O"
+    },
+    {
+      "id": 6,
+      "nome": "País: França",
+      "capial": "Capital: Paris",
+      "pupulacao": "População: 67.390.000",
+      "continente": "Continente: Europa",
+      "bandeira": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-franca-pais.jpg",
+      "latitude": "Latitude:  20°32′18″ S",
+      "longitute": "Longitude: 47°24′02″ O"
+    },
+    {
+      "id": 7,
+      "nome": "País: Grécia",
+      "capial": "Capital: Atenas",
+      "pupulacao": "População: 10.720.000",
+      "continente": "Continente: Europa",
+      "bandeira": "https://www.bandeirasnacionais.com/data/flags/big/gr.png",
+      "latitude": "Latitude:  43°12′35″ N",
+      "longitute": "Longitude 77°41′35″ O"
+    },
+    {
+      "id": 8,
+      "nome": "País: Haiti",
+      "capial": "Capital: Porto Principe",
+      "pupulacao": "População: 11.400.000",
+      "continente": "Continente: América",
+      "bandeira": "https://bandeira.net/wp-content/uploads/2018/10/bandeira-do-haiti.png",
+      "latitude": "Latitude:  19°45′33″ N",
+      "longitute": "Longitude 72°11′53″ O"
+    },
+    {
+      "id": 9,
+      "nome": "País: Itália",
+      "capial": "Capital: Roma",
+      "pupulacao": "População: 60.317.116",
+      "continente": "Continente: Europa",
+      "bandeira": "https://static.todamateria.com.br/upload/ba/nd/bandeira-da-italia-og.jpg",
+      "latitude": "Latitude: 41°53′30″ N",
+      "longitute": "Longitude: 112°30′40″ E"
+    },
+    {
+      "id": 10,
+      "nome": "País: Japão",
+      "capial": "Capital: Tóquio",
+      "pupulacao": "População: 126.440.000",
+      "continente": "Continente: Ásia",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+      "latitude": "Latitude: 35°41′22″ N",
+      "longitute": "Longitude: 139°41′30″ E"
+    },
+    {
+      "id": 11,
+      "nome": "País: Kosovo",
+      "capial": "Capital: Pristina",
+      "pupulacao": "População: 1.809.740",
+      "continente": "Continente: Europa",
+      "bandeira": "https://cidadeolimpica.com.br/wp-content/uploads/2021/11/bandeira-kosovo.png",
+      "latitude": "Latitude: 42°39′50″ N",
+      "longitute": "Longitude: 21°05′45″ E"
+    },
+    {
+      "id": 12,
+      "nome": "País: Líbano",
+      "capial": "Capital: Beirute",
+      "pupulacao": "População: 6.859.408",
+      "continente": "Continente: Ásia",
+      "bandeira": "https://img.freepik.com/fotos-premium/bandeira-do-libano_406939-4529.jpg",
+      "latitude": "Latitude: 4°55′18″ N",
+      "longitute": "Longitude: 75°03′44″ O"
+    },
+    {
+      "id": 13,
+      "nome": "País: Malta",
+      "capial": "Capital: Valeta",
+      "pupulacao": "População: 452.542",
+      "continente": "Continente: Europa",
+      "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/mt.png",
+      "latitude": "Latitude: 48°21′34″ N",
+      "longitute": "Longitude: 107°52′27″ O"
+    },
+    {
+      "id": 14,
+      "nome": "País: Nepal",
+      "capial": "Capital: Catmandu",
+      "pupulacao": "População: 29.305.000",
+      "continente": "Continente: Ásia",
+      "bandeira": "https://www.estudopratico.com.br/wp-content/uploads/2017/05/significado-da-bandeira-do-nepal.jpg",
+      "latitude": "Latitude: 27°41′11″ N",
+      "longitute": "Longitude: 86°43′53″ E"
+    },
+    {
+      "id": 15,
+      "nome": "País: Omã",
+      "capial": "Capital: Mascate",
+      "pupulacao": "População: 5.107.000",
+      "continente": "Continente: Ásia",
+      "bandeira": "https://st.depositphotos.com/51720920/52714/i/600/depositphotos_527145468-stock-photo-top-view-retro-of-flag.jpg",
+      "latitude": "Latitude: 23°35′02″ N",
+      "longitute": "Longitude: 58°24′28″ E"
+    },
+    {
+      "id": 16,
+      "nome": "País: Portugal",
+      "capial": "Capital: Lisboa",
+      "pupulacao": "População: 10.310.000",
+      "continente": "Continente: Europa",
+      "bandeira": "https://bandeira.net/wp-content/uploads/2018/10/bandeira-de-portugal.png",
+      "latitude": "Latitude: 38°43′00″ N",
+      "longitute": "Longitude: 9°07′59″ O"
+    },
+    {
+      "id": 17,
+      "nome": "País: Qatar",
+      "capial": "Capital: Doha",
+      "pupulacao": "População: 2.881.000",
+      "continente": "Continente: Ásia",
+      "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/qa.png",
+      "latitude": "Latitude: 25°16′45″ N",
+      "longitute": "Longitude: 51°31′20″ E"
+    },
+    {
+      "id": 18,
+      "nome": "País: Rússia",
+      "capial": "Capital: Moscou",
+      "pupulacao": "População: 144.100.000",
+      "continente": "Continente: Europa,Ásia",
+      "bandeira": "https://imagepng.org/wp-content/uploads/2017/08/bandeira-russia.png",
+      "latitude": "Latitude: 55°45′07″ N",
+      "longitute": "Longitude: 37°36′56″ E"
+    },
+    {
+      "id": 19,
+      "nome": "País: Suécia",
+      "capial": "Capital: Estocolmo",
+      "pupulacao": "População: 10.350.000",
+      "continente": "Continente: Europa",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
+      "latitude": "Latitude: 59°19′57″ N",
+      "longitute": "Longitude: 18°03′53″ E"
+    },
+    {
+      "id": 20,
+      "nome": "País: Tanzânia",
+      "capial": "Capital: Dodoma",
+      "pupulacao": "População: 59.730.000",
+      "continente": "Continente: África",
+      "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/tz.png",
+      "latitude": "Latitude: 6°49′24″ S",
+      "longitute": "Longitude: 39°16′10″ E"
+    },
+    {
+      "id": 21,
+      "nome": "País: Ucrânia",
+      "capial": "Capital: Kiev",
+      "pupulacao": "População: 44.130.000",
+      "continente": "Continente: Europa",
+      "bandeira": "https://greenpng.com/wp-content/uploads/2022/02/Bandeira-da-Ucrania-1024x712.png",
+      "latitude": "Latitude: 50°27′16″ N",
+      "longitute": "Longitude: 30°31′25″ E"
+    },
+    {
+      "id": 22,
+      "nome": "País: Venezuela",
+      "capial": "Capital: Caracas",
+      "pupulacao": "População: 28.440.000",
+      "continente": "Continente: América",
+      "bandeira": "https://imagepng.org/wp-content/uploads/2017/08/bandeira-da-venezuela.png",
+      "latitude": "Latitude: 21°44′14″ N",
+      "longitute": "Longitude: 78°47′36″ O"
+    },
+    {
+      "id": 23,
+      "nome": "País: Zimbábue",
+      "capial": "Capital: Harare",
+      "pupulacao": "População: 14.860.000",
+      "continente": "Continente: África",
+      "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/zw.png",
+      "latitude": "Latitude: 17°49′39″ S",
+      "longitute": "Longitude: 31°03′12″ E"
+    },
+    {
+      "id": 24,
+      "nome": "País: Coreia do Sul",
+      "capial": "Capital: Seul",
+      "pupulacao": "População: 51.780.000",
+      "continente": "Continente: Ásia",
+      "bandeira": "https://www.koreapost.com.br/wp-content/uploads/2015/03/bandeira-da-Coreia-do-Sul.jpg",
+      "latitude": "Latitude: 37°33′57″ N",
+      "longitute": "Longitude: 126°58′42″ E"
+    }
+  ]
+}
