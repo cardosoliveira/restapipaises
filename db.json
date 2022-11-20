@@ -7,8 +7,8 @@
       "populacao": "População: 45.038.000",
       "continente": "Continente: América",
       "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png",
-      "latitude": "Latitude: 2°11′45″ N",
-      "longitute": "Longitude: 75°58′48″ O"
+      "latitude": "-34.6037",
+      "longitute": "-58.3816"
     },
     {
       "id": 2,
@@ -17,8 +17,8 @@
       "populacao": "População: 212.600.000",
       "continente": "Continente: América",
       "bandeira": "https://http2.mlstatic.com/D_NQ_NP_785918-MLB49897208278_052022-W.jpg",
-      "latitude": "Latitude: 21°56′04″ S",
-      "longitute": "Longitude: 50°30′48″ O"
+      "latitude": "-14.235",
+      "longitute": "-51.9253"
     },
     {
       "id": 3,
@@ -27,8 +27,8 @@
       "populacao": "População: 38.010.000",
       "continente": "Continente: América",
       "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
-      "latitude": "Latitude:  38°40′26″ N",
-      "longitute": "Longitude: 0°48′47″ O"
+      "latitude": "45.4215",
+      "longitute": "-75.6971"
     },
     {
       "id": 4,
@@ -37,8 +37,8 @@
       "populacao": "População: 5.831.000",
       "continente": "Continente: Europa",
       "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png",
-      "latitude": "Latitude:  55°40′33″ N",
-      "longitute": "Longitude: 2°33′55″ E"
+      "latitude": "55.6761",
+      "longitute": "12.5683"
     },
     {
       "id": 5,
@@ -47,8 +47,8 @@
       "populacao": "População: 329.500.000",
       "continente": "Continente: América",
       "bandeira": "https://img.freepik.com/vetores-gratis/ilustracao-de-bandeira-eua_53876-18165.jpg",
-      "latitude": "Latitude:  38°53′42″ N",
-      "longitute": "Longitude: 77°02′10″ O"
+      "latitude": "38.8854",
+      "longitute": "-77.0115"
     },
     {
       "id": 6,
@@ -57,8 +57,8 @@
       "populacao": "População: 67.390.000",
       "continente": "Continente: Europa",
       "bandeira": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-franca-pais.jpg",
-      "latitude": "Latitude:  20°32′18″ S",
-      "longitute": "Longitude: 47°24′02″ O"
+      "latitude": "48.7286",
+      "longitute": "2.36"
     },
     {
       "id": 7,
@@ -67,8 +67,8 @@
       "populacao": "População: 10.720.000",
       "continente": "Continente: Europa",
       "bandeira": "https://www.bandeirasnacionais.com/data/flags/big/gr.png",
-      "latitude": "Latitude:  43°12′35″ N",
-      "longitute": "Longitude 77°41′35″ O"
+      "latitude": "37.9715",
+      "longitute": "23.7257"
     },
     {
       "id": 8,
@@ -77,8 +77,8 @@
       "populacao": "População: 11.400.000",
       "continente": "Continente: América",
       "bandeira": "https://bandeira.net/wp-content/uploads/2018/10/bandeira-do-haiti.png",
-      "latitude": "Latitude:  19°45′33″ N",
-      "longitute": "Longitude 72°11′53″ O"
+      "latitude": "18.533333",
+      "longitute": "-72.333336"
     },
     {
       "id": 9,
@@ -87,8 +87,8 @@
       "populacao": "População: 60.317.116",
       "continente": "Continente: Europa",
       "bandeira": "https://static.todamateria.com.br/upload/ba/nd/bandeira-da-italia-og.jpg",
-      "latitude": "Latitude: 41°53′30″ N",
-      "longitute": "Longitude: 112°30′40″ E"
+      "latitude": "41.8724",
+      "longitute": "12.4802"
     },
     {
       "id": 10,
@@ -97,8 +97,8 @@
       "populacao": "População: 126.440.000",
       "continente": "Continente: Ásia",
       "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
-      "latitude": "Latitude: 35°41′22″ N",
-      "longitute": "Longitude: 139°41′30″ E"
+      "latitude": "35.7586",
+      "longitute": "139.8175"
     },
     {
       "id": 11,
@@ -107,8 +107,8 @@
       "populacao": "População: 1.809.740",
       "continente": "Continente: Europa",
       "bandeira": "https://cidadeolimpica.com.br/wp-content/uploads/2021/11/bandeira-kosovo.png",
-      "latitude": "Latitude: 42°39′50″ N",
-      "longitute": "Longitude: 21°05′45″ E"
+      "latitude": "42.667542",
+      "longitute": "21.166191"
     },
     {
       "id": 12,
@@ -117,8 +117,8 @@
       "populacao": "População: 6.859.408",
       "continente": "Continente: Ásia",
       "bandeira": "https://img.freepik.com/fotos-premium/bandeira-do-libano_406939-4529.jpg",
-      "latitude": "Latitude: 4°55′18″ N",
-      "longitute": "Longitude: 75°03′44″ O"
+      "latitude": "33.888630",
+      "longitute": "35.495480"
     },
     {
       "id": 13,
@@ -127,8 +127,8 @@
       "populacao": "População: 452.542",
       "continente": "Continente: Europa",
       "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/mt.png",
-      "latitude": "Latitude: 48°21′34″ N",
-      "longitute": "Longitude: 107°52′27″ O"
+      "latitude": "35.917973",
+      "longitute": "14.409943"
     },
     {
       "id": 14,
@@ -137,8 +137,8 @@
       "populacao": "População: 29.305.000",
       "continente": "Continente: Ásia",
       "bandeira": "https://www.estudopratico.com.br/wp-content/uploads/2017/05/significado-da-bandeira-do-nepal.jpg",
-      "latitude": "Latitude: 27°41′11″ N",
-      "longitute": "Longitude: 86°43′53″ E"
+      "latitude": "27.700769",
+      "longitute": "85.300140"
     },
     {
       "id": 15,
@@ -147,8 +147,8 @@
       "populacao": "População: 5.107.000",
       "continente": "Continente: Ásia",
       "bandeira": "https://st.depositphotos.com/51720920/52714/i/600/depositphotos_527145468-stock-photo-top-view-retro-of-flag.jpg",
-      "latitude": "Latitude: 23°35′02″ N",
-      "longitute": "Longitude: 58°24′28″ E"
+      "latitude": "23.614328",
+      "longitute": "58.545284"
     },
     {
       "id": 16,
@@ -157,8 +157,8 @@
       "populacao": "População: 10.310.000",
       "continente": "Continente: Europa",
       "bandeira": "https://bandeira.net/wp-content/uploads/2018/10/bandeira-de-portugal.png",
-      "latitude": "Latitude: 38°43′00″ N",
-      "longitute": "Longitude: 9°07′59″ O"
+      "latitude": "38.736946",
+      "longitute": "-9.142685"
     },
     {
       "id": 17,
@@ -167,8 +167,8 @@
       "populacao": "População: 2.881.000",
       "continente": "Continente: Ásia",
       "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/qa.png",
-      "latitude": "Latitude: 25°16′45″ N",
-      "longitute": "Longitude: 51°31′20″ E"
+      "latitude": "25.286106",
+      "longitute": "51.534817"
     },
     {
       "id": 18,
@@ -177,8 +177,8 @@
       "populacao": "População: 144.100.000",
       "continente": "Continente: Europa,Ásia",
       "bandeira": "https://imagepng.org/wp-content/uploads/2017/08/bandeira-russia.png",
-      "latitude": "Latitude: 55°45′07″ N",
-      "longitute": "Longitude: 37°36′56″ E"
+      "latitude": "55.751244",
+      "longitute": "37.618423"
     },
     {
       "id": 19,
@@ -187,8 +187,8 @@
       "populacao": "População: 10.350.000",
       "continente": "Continente: Europa",
       "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
-      "latitude": "Latitude: 59°19′57″ N",
-      "longitute": "Longitude: 18°03′53″ E"
+      "latitude": "59.334591",
+      "longitute": "18.063240"
     },
     {
       "id": 20,
@@ -197,8 +197,8 @@
       "populacao": "População: 59.730.000",
       "continente": "Continente: África",
       "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/tz.png",
-      "latitude": "Latitude: 6°49′24″ S",
-      "longitute": "Longitude: 39°16′10″ E"
+      "latitude": "-6.776012",
+      "longitute": "39.178326"
     },
     {
       "id": 21,
@@ -207,8 +207,8 @@
       "populacao": "População: 44.130.000",
       "continente": "Continente: Europa",
       "bandeira": "https://greenpng.com/wp-content/uploads/2022/02/Bandeira-da-Ucrania-1024x712.png",
-      "latitude": "Latitude: 50°27′16″ N",
-      "longitute": "Longitude: 30°31′25″ E"
+      "latitude": "50.450001",
+      "longitute": "30.523333"
     },
     {
       "id": 22,
@@ -217,8 +217,8 @@
       "populacao": "População: 28.440.000",
       "continente": "Continente: América",
       "bandeira": "https://imagepng.org/wp-content/uploads/2017/08/bandeira-da-venezuela.png",
-      "latitude": "Latitude: 21°44′14″ N",
-      "longitute": "Longitude: 78°47′36″ O"
+      "latitude": "10.500000",
+      "longitute": "-66.916664"
     },
     {
       "id": 23,
@@ -227,8 +227,8 @@
       "populacao": "População: 14.860.000",
       "continente": "Continente: África",
       "bandeira": "https://www.bandeirasnacionais.com/data/flags/ultra/zw.png",
-      "latitude": "Latitude: 17°49′39″ S",
-      "longitute": "Longitude: 31°03′12″ E"
+      "latitude": "-17.824858",
+      "longitute": "31.053028"
     },
     {
       "id": 24,
@@ -237,8 +237,8 @@
       "populacao": "População: 51.780.000",
       "continente": "Continente: Ásia",
       "bandeira": "https://www.koreapost.com.br/wp-content/uploads/2015/03/bandeira-da-Coreia-do-Sul.jpg",
-      "latitude": "Latitude: 37°33′57″ N",
-      "longitute": "Longitude: 126°58′42″ E"
+      "latitude": "37.532600",
+      "longitute": "127.024612"
     }
   ]
 }
